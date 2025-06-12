@@ -23,6 +23,25 @@ This project utilizes cutting-edge deep learning techniques, specifically Convol
 ### Problem Statement
 The music streaming industry faces significant challenges with existing classification systems that rely on manual tagging and metadata-based approaches. These methods often fail to capture the true essence of musical content, leading to poor recommendation accuracy. Audio Monk addresses these limitations by analyzing actual audio patterns and characteristics.
 
+### Demo/Overview
+
+<img width="1465" alt="Screenshot 2025-06-13 at 1 26 23 AM" src="https://github.com/user-attachments/assets/d4b86895-00e0-4171-ada0-a13d600be23f" />
+
+<img width="1465" alt="Screenshot 2025-06-13 at 1 26 31 AM" src="https://github.com/user-attachments/assets/2af90f28-2502-41d8-9ad5-92380f3a1983" />
+
+<img width="1465" alt="Screenshot 2025-06-13 at 1 29 13 AM" src="https://github.com/user-attachments/assets/dd193118-97c0-4c68-a397-346d324fda9d" />
+
+<img width="1465" alt="Screenshot 2025-06-13 at 1 29 27 AM" src="https://github.com/user-attachments/assets/3dac6f59-19cb-493e-aa40-376d212bb43e" />
+
+<img width="1470" alt="Screenshot 2025-06-13 at 1 29 58 AM" src="https://github.com/user-attachments/assets/cef6065e-810a-49f7-8201-bc68cffee6f1" />
+
+<img width="1470" alt="Screenshot 2025-06-13 at 1 30 06 AM" src="https://github.com/user-attachments/assets/1880db7b-2fbb-4d40-99fd-bcb3cb56d497" />
+
+<img width="1470" alt="Screenshot 2025-06-13 at 1 30 16 AM" src="https://github.com/user-attachments/assets/0cf1e285-98dc-40f5-983a-006d0356bae9" />
+
+
+<img width="1470" alt="Screenshot 2025-06-13 at 1 30 24 AM" src="https://github.com/user-attachments/assets/788c8546-659d-407d-9ff1-60ab3400e036" />
+
 ---
 
 ## Prerequisites
